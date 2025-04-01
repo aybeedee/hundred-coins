@@ -1,0 +1,22 @@
+{
+  "name": "hundred-coins",
+  "version": "1.0.0",
+  "description": "client for the official hundred coins game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-aybeedee:aybeedee/hundred-coins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.4"
+  }
+}
